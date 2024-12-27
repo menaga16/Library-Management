@@ -1,0 +1,6 @@
+1|The C++ Programmin languae|Bjarne Stroustrup|1|0|
+2|C++ Primer|Scott Meyers|1|0|
+3|More Effective C++|Scott Meyers|1|0|
+4|The Psychology of Money|Morgan Housel|1|0|
+5|Atomic Habits|James Clear|0|1735280537|Menaga
+6|The Data Detective|Tim Harford|1|0|
